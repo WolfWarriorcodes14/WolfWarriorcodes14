@@ -2,6 +2,10 @@
   <img src="./ChatGPT(github-cover-photo).png" width="100%" alt="WolfWarrior Banner">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=1000&lines=🐺+WolfWarriorcodes14;💻+Information+Technology+Student;⚔️+Competitive+Programmer;🚀+Android+Developer;🏆+230%2B+LeetCode+Problems+Solved;📚+GATE+IT+Aspirant;☁️+Docker+%26+AWS+Explorer;🌕+Code+.+Learn+.+Build+.+Conquer" />
+</p>
+
 <h2 align="center"> Tech Stack </h2>
 
 <p align="center">
