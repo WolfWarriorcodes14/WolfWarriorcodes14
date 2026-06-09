@@ -9,9 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WolfWarriorcodes14&theme=tokyonight" />
 </p>
