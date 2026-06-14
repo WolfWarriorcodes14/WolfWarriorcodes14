@@ -4,57 +4,70 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=1000&lines=🐺+WolfWarriorcodes14;💻+Information+Technology+Student;🏆+230%2B+LeetCode+Problems+Solved;☁️+Docker+%26+AWS+Explorer;🌕+Code+.+Learn+.+Build+.+Conquer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=1000&lines=WolfWarriorcodes14;Information+Technology+Student;230%2B+LeetCode+Problems+Solved;Docker+%26+AWS+Explorer;Code+.+Learn+.+Build+.+Conquer" />
 </p>
 
 ---
 
-# 🐺 About Me
+# About Me
 
-💻 Information Technology Student
+Information Technology Student
 
-📚 Strong interest in Data Structures & Algorithms
+Strong interest in Data Structures & Algorithms
 
-🏆 230+ LeetCode Problems Solved
+Exploring Docker, AWS and Backend Development
 
-☁️ Exploring Docker, AWS and Backend Development
-
-🚀 Building projects while improving problem-solving skills
-
-🌕 Code. Learn. Build. Conquer.
+Building projects while improving problem-solving skills
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
-## 💻 Languages
-C++ • Java • Python • JavaScript
+### Languages
 
-## 🎨 Frontend
-HTML • CSS • React.js • Redux Toolkit
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+</p>
 
-## ⚙️ Backend
-Node.js • Express.js • REST APIs
+### Frontend
 
-## 🗄️ Database
-MongoDB • MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" />
+</p>
 
-## ☁️ Cloud & DevOps
-Docker • AWS
+### Backend
 
-## 🛠️ Tools
-Git • GitHub • VS Code • Postman
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## 🖥️ Operating Systems
-Windows 11 • Ubuntu Linux
+### Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,java,python,git,github,vscode,docker,aws,postman,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
 
-# 🏆 LeetCode Journey
+# LeetCode Journey
 
 <p align="center">
   <a href="https://leetcode.com/u/dpruthviraj206/">
@@ -70,7 +83,7 @@ Windows 11 • Ubuntu Linux
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=tokyonight" />
@@ -84,7 +97,7 @@ Windows 11 • Ubuntu Linux
 ---
 
 <p align="center">
-🌕 <i>"In the middle of the night, when the world sleeps, the wolf awakens."</i> 🐺
+  <i>Code. Learn. Build. Conquer.</i>
 </p>
 
 <p align="center">
