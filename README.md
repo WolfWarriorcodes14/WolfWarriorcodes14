@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="./ChatGPT(github-cover-photo).png" width="100%" alt="WolfWarrior Banner">
 </p>
@@ -90,4 +90,4 @@ Windows 11 • Ubuntu Linux
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WolfWarriorcodes14&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-```
+
