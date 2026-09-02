@@ -83,18 +83,20 @@ mission:     Building projects while sharpening problem-solving skills
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=WolfWarriorcodes14&theme=tokyonight&border_radius=10&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400" />
+<img height="170em" src="https://streak-stats.demolab.com/?user=WolfWarriorcodes14&theme=tokyonight&border_radius=10&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfWarriorcodes14&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfWarriorcodes14&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfWarriorcodes14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=WolfWarriorcodes14&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 
 </div>
+
+> ⚠️ **On reliability:** these are free, shared community services (Vercel/Render deployments), so they occasionally rate-limit or go down for a few minutes — that's what caused the broken icons. If it happens again, a hard refresh usually fixes it. For a permanent fix, you can deploy your own private instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (one-click Vercel deploy button on that repo) and swap the domain in the URLs above to your own — that removes you from the shared rate limit entirely.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:2C5364&height=3&width=100%" width="100%">
 
@@ -106,7 +108,53 @@ mission:     Building projects while sharpening problem-solving skills
 
 </div>
 
-> 💡 **Setup note:** the snake animation above renders automatically once you add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it turns your contribution graph into an animated snake that "eats" your commits.
+> 💡 **Setup note:** the snake animation above renders automatically once you add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it turns your contribution graph into an animated snake that "eats" your commits. See setup steps below.
+
+<details>
+<summary><b>▶ How to activate the snake (one-time, ~5 min)</b></summary>
+
+<br>
+
+1. In your **profile repo** (`WolfWarriorcodes14/WolfWarriorcodes14`), create the file `.github/workflows/snake.yml`.
+2. Paste in:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs once a day
+  workflow_dispatch: {}       # lets you trigger it manually too
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: WolfWarriorcodes14
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it to `main`. Go to the **Actions** tab of the repo and manually run the "Generate Snake" workflow once (don't wait for the daily cron).
+4. Once it finishes, it auto-creates an `output` branch containing the generated SVGs.
+5. The image tag already in this README points to that exact path, so it'll start rendering automatically — no further edits needed.
+6. From here on, it regenerates daily on its own via the cron schedule.
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:2C5364&height=3&width=100%" width="100%">
 
