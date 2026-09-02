@@ -1,0 +1,22 @@
+<svg width="1200" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f5af0">
+        <animate attributeName="stop-color"
+          values="#7f5af0;#2cb1bc;#ff5da2;#ff9d4d;#7f5af0"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#2cb1bc">
+        <animate attributeName="stop-color"
+          values="#2cb1bc;#ff5da2;#ff9d4d;#7f5af0;#2cb1bc"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff5da2">
+        <animate attributeName="stop-color"
+          values="#ff5da2;#ff9d4d;#7f5af0;#2cb1bc;#ff5da2"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="6" rx="3" fill="url(#flow)"/>
+</svg>
