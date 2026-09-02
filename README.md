@@ -79,24 +79,30 @@ mission:     Building projects while sharpening problem-solving skills
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:2C5364&height=3&width=100%" width="100%">
 
-## 📊 GitHub Statistics
+## 🌌 GitHub Universe
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400" />
-<img height="170em" src="https://streak-stats.demolab.com/?user=WolfWarriorcodes14&theme=tokyonight&border_radius=10&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfWarriorcodes14&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=WolfWarriorcodes14&show_icons=true&theme=synthwave&border_radius=12&hide_border=true&cache_seconds=86400" height="175em" />
+<img src="https://streak-stats.demolab.com/?user=WolfWarriorcodes14&theme=synthwave&border_radius=12&hide_border=true" height="175em" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=WolfWarriorcodes14&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfWarriorcodes14&layout=donut-vertical&theme=synthwave&border_radius=12&hide_border=true" height="180em" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WolfWarriorcodes14&theme=synthwave&hide_border=true&area=true&custom_title=My%20Coding%20Galaxy" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=WolfWarriorcodes14&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" width="100%" />
 
 </div>
 
-> ⚠️ **On reliability:** these are free, shared community services (Vercel/Render deployments), so they occasionally rate-limit or go down for a few minutes — that's what caused the broken icons. If it happens again, a hard refresh usually fixes it. For a permanent fix, you can deploy your own private instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (one-click Vercel deploy button on that repo) and swap the domain in the URLs above to your own — that removes you from the shared rate limit entirely.
+<div align="center">
+<sub>✨ every square, streak and trophy above is a live piece of the story — updated the moment I push new code ✨</sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:2C5364&height=3&width=100%" width="100%">
 
