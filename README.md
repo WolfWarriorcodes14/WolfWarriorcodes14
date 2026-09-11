@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ChatGPT(github-cover-photo).png" width="100%" alt="WolfWarrior Banner">
+<img src="./new-readme.png" width="100%" alt="WolfWarrior Banner">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=&fontColor=ffffff" width="100%">
 
